@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Sébastien Arantes 👋
+# I'm Sébastien Arantes 👋
 
 ## About Me
 
@@ -28,13 +28,13 @@ I am a web developer with over 6 years of experience in e-commerce, combining te
 - **Tools and Technologies:** VsCode, Visual Studio, Git
 - **Methodologies:** Agile, Scrum
 
-## Projects
+<!--## Projects
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | Creartiph.fr | Development of the website according to W3C standards, content integration, SEO setup, and deployment. | [Link to Creartiph.fr](#) |
 | Ticketing Platform Backend | Developed the backend for a ticketing platform. | [Link to Project](#) |
-
+-->
 ## Education
 
 - **Web Developer Certification, OpenClassroom, 2019**
